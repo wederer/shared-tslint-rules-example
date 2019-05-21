@@ -31,16 +31,7 @@
     ],
     "prefer-const": false,
     "whitespace": [
-      true,
-      "check-branch",
-      "check-decl",
-      "check-operator",
-      "check-module",
-      "check-separator",
-      "check-rest-spread",
-      "check-type",
-      "check-type-operator",
-      "check-preblock"
+      false
     ],
 
     "class-name": false,
