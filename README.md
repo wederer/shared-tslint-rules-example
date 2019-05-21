@@ -7,11 +7,12 @@ In microservice architectures built with TypeScript this is necessary to ensure 
 ## How to use this package
 
 1. Install this package via ```npm install -D shared-tslint-rules-example```
-1. Create a tslint.json with the following contents and optional specific rules for your use case
+2. Create a tslint.json as shown below and optional specific rules for your use case
+3. use tslint via command line/IDE/webpack
+
+**Example tslint.json which uses the shared rules**
 ```
 {
     "extends": "shared-tslint-rules-example/tslint.json"
 }
 ```
-3. use tslint via command line/IDE/webpack
-
