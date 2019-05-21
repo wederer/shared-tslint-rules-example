@@ -1,6 +1,6 @@
 {
 	"name": "shared-tslint-rules-example",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Example package for sharing tslint rules across projects via a npm package",
 	"main": "tslint.json",
 	"scripts": {
