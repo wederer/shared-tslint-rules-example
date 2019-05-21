@@ -1,7 +1,7 @@
 {
 	"name": "shared-tslint-rules-example",
 	"version": "1.0.0",
-	"description": "Example package for sharin tslint rules across projects via a npm package",
+	"description": "Example package for sharing tslint rules across projects via a npm package",
 	"main": "tslint.json",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
