@@ -9,8 +9,7 @@ In microservice architectures built with TypeScript this is necessary to ensure 
 1. Install this package via ```npm install -D shared-tslint-rules-example```
 1. Create a tslint.json with the following contents and optional specific rules for your use case
 ```
-	{
-		"extends": "shared-tslint-rules-example/tslint.json"
-	}
-
+{
+    "extends": "shared-tslint-rules-example/tslint.json"
+}
 ```
