@@ -1,0 +1,62 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:recommended"
+  ],
+  "jsRules": {},
+  "rules": {
+    "no-consecutive-blank-lines": [
+      true,
+      2
+    ],
+    "quotemark": [
+      false
+    ],
+    "trailing-comma": [
+      true
+    ],
+    "member-access": false,
+    "object-literal-sort-keys": false,
+    "no-string-literal": false,
+    "no-angle-bracket-type-assertion": false,
+    "ordered-imports": false,
+    "no-namespace": false,
+    "interface-name": false,
+    "no-var-requires": false,
+    "variable-name": false,
+    "object-literal-key-quotes": false,
+    "max-line-length": [
+      true,
+      200
+    ],
+    "prefer-const": false,
+    "whitespace": [
+      true,
+      "check-branch",
+      "check-decl",
+      "check-operator",
+      "check-module",
+      "check-separator",
+      "check-rest-spread",
+      "check-type",
+      "check-type-operator",
+      "check-preblock"
+    ],
+
+    "class-name": false,
+    "interface-over-type-literal": false,
+    "object-literal-shorthand": false,
+    "semicolon": {
+      "options": [
+        "always",
+        "ignore-bound-class-methods"
+      ]
+    }
+  },
+  "rulesDirectory": [],
+  "linterOptions": {
+    "exclude": [
+      "src/migration/*"
+    ]
+  }
+}

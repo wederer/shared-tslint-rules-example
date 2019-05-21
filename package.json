@@ -1,0 +1,19 @@
+{
+  "name": "shared-tslint-test",
+  "version": "1.0.0",
+  "description": "Shared tslint rules for microservices",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wederer/shared-tslint-config-test.git"
+  },
+  "author": "Wolfgang Ederer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wederer/shared-tslint-config-test/issues"
+  },
+  "homepage": "https://github.com/wederer/shared-tslint-config-test#readme"
+}
