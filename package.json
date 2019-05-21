@@ -10,5 +10,9 @@
 		"name": "Wolfgang Ederer",
 		"email": "wolfgangederer@gmail.com"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wederer/shared-tslint-rules-example"
+	},
 	"license": "MIT"
 }
