@@ -13,5 +13,5 @@ In microservice architectures built with TypeScript this is necessary to ensure 
     "extends": "shared-tslint-rules-example/tslint.json"
 }
 ```
-1. use tslint via command line/IDE/webpack
+3. use tslint via command line/IDE/webpack
 
