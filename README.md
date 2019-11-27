@@ -1,6 +1,6 @@
 # Sharing tslint rules across multiple projects via an npm package
 
-This repo is a npm package which can be used to share tslint rules across multiple projects.
+This repo is an npm package which can be used to share tslint rules across multiple projects.
 In microservice architectures built with TypeScript this is necessary to ensure a consistent code style and quality.
 
 
